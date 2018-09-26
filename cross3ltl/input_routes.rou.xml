@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+
+   <vType id="SUMO_DEFAULT_TYPE" accel="0.8" decel="4.5" carFollowModel="Krauss" sigma="0.0" length="6" minGap="2" maxSpeed="200"/>
+
+   <route id="always_right" edges="1fi 1si 4o "/>
+   <flow id="always_right" type="SUMO_DEFAULT_TYPE" route="always_right" begin="0" end="4000" period="30"/>
+ 
+</routes>

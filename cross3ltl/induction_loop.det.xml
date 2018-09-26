@@ -1,0 +1,10 @@
+<additional>
+
+	<inductionLoop id='i1' lane='1si_0' pos='-10' freq='50' file='/home/deepak/Desktop/sumo_trial/cross3ltl/result_of_iloop.xml'/>
+    	<inductionLoop id='i2' lane='1si_1' pos='-10' freq='50' file='/home/deepak/Desktop/sumo_trial/cross3ltl/result_of_iloop.xml'/>
+	<inductionLoop id='i3' lane='1si_2' pos='-10' freq='50' file='/home/deepak/Desktop/sumo_trial/cross3ltl/result_of_iloop.xml'/>
+	<inductionLoop id='i4' lane='4o_0' pos='10' freq='50' file='/home/deepak/Desktop/sumo_trial/cross3ltl/result_of_iloop.xml'/>
+
+
+	
+</additional>
