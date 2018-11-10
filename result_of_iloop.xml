@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Sunday 11 November 2018 01:05:34 AM IST by SUMO gui Version 0.32.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/deepak/Desktop/sumo_map_map%20(copy)/map.net.xml"/>
+        <route-files value="/home/deepak/Desktop/sumo_map_map%20(copy)/map.rou.xml"/>
+        <additional-files value="/home/deepak/Desktop/sumo_map_map%20(copy)/map.poly.xml,/home/deepak/Desktop/sumo_map_map%20(copy)/bangalore.det.xml"/>
+    </input>
+
+    <report>
+        <duration-log.disable value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
